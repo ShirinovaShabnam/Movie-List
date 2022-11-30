@@ -6,7 +6,7 @@
   padding: 0;
 }
 body {
-  background-color: rgb(29, 27, 27);
+  background-color: rgb(123, 39, 7);
 }
 
 .box {
@@ -41,7 +41,7 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-seri;
 }
 .Navbar {
-  background-color: rgb(33, 93, 154);
+  background-color: rgb(15, 149, 232);
   padding: 10px 0;
   position: fixed;
   z-index: 1;
@@ -79,7 +79,7 @@ body {
 .overlay button {
   display: none;
   background: none;
-  background-color: rgb(33, 93, 154);
+  background-color:  rgb(15, 149, 232);
   font-size: 20px;
   color: #fff;
   padding: 10px;
@@ -108,7 +108,7 @@ body {
   align-items: center;
 }
 .searchbox button {
-  background-color: rgb(33, 93, 154);
+  background-color:  rgb(15, 149, 232);
   color: #fff;
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
